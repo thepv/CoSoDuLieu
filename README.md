@@ -6,7 +6,7 @@ Chào mừng bạn đến với kho lưu trữ bài giảng. Dưới đây là l
 
 ## 🗺️ Lộ Trình Học Tập & Thực Hành
 
-### 📂 Chương 1
+### 📂 Chương 1: Khái Niệm và Kiến Trúc Hệ CSDL
 * [📖 Slide Bài Giảng Chương 1](./Chuong1/Slide.md) — Tổng quan và kiến thức lý thuyết cơ bản.
 * [💻 Bài Tập Thực Hành Lab 1](./Chuong1/Lab.md) — Hướng dẫn thực hành chương 1.
 
