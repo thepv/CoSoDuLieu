@@ -203,5 +203,3 @@ Cho các lược đồ quan hệ:
 * Ví dụ 3: Chuyển sang lược đồ quan hệ. (Lưu ý: KETQUA được biểu diễn dạng kiểu thực thể yếu) giữa SINHVIEN (MASV, HOTEN, NGAYSINH) và MONHOC (MAMH, TENMH, SOTC) qua KETQUA (LANTHI, DIEM).
 
 
-Chuong_2_Cac_mo_hinh_du_lieu.md
-Displaying Chuong_2_Cac_mo_hinh_du_lieu.md.
