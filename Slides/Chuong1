@@ -1,1 +1,157 @@
 
+Gemini
+
+Chat
+
+Spark
+beta
+New chat
+Search chats
+Images
+Videos
+Library
+New notebook
+Untitled notebook
+SQL Server Performance Tuning and Optimization Handbook
+All notebooks
+Tạo file Markdown Cơ sở dữ liệu
+Hướng Dẫn Kiểm Định Giả Thuyết Cho DA
+AI Ứng Dụng Trong Kiểm Thử Phần Mềm
+Mô Tả Khóa Học Kiểm Thử API
+Hướng dẫn JPA & SQL Server Demo
+Spring Boot Data Access Essentials
+Hướng dẫn tìm khóa lược đồ quan hệ
+Conversation with Gemini
+Tạo file md giữ định dạng văn bản
+
+Your Markdown file is ready
+
+MD icon
+Chuong_1_Khai_niem_va_kien_truc_he_CSDL
+ MD 
+Open
+Tệp Markdown đã được tạo và định dạng lại dựa trên nội dung bài giảng Chương 1. File này bao gồm toàn bộ các kiến thức từ nguồn bạn cung cấp, cụ thể như:  
+PPTX
+
+Khái niệm cơ bản: Định nghĩa về dữ liệu, cơ sở dữ liệu, và các hình thức lưu trữ.  
+PPTX
+
+Hệ quản trị CSDL (DBMS): Các ngôn ngữ (DDL, DML, SQL, DCL), kiến trúc 3 mức (Physical, Logical, View), và các đối tượng sử dụng CSDL.  
+PPTX
+
+Các mô hình dữ liệu: Bao gồm các mô hình cổ điển (Mạng, Phân cấp, Quan hệ, Thực thể - Kết hợp, Hướng đối tượng) và các mô hình NoSQL hiện đại (Document, Wide Column, Graph, Key-Value, Vector).  
+PPTX
++ 1
+
+Câu hỏi ôn tập: Danh sách các câu hỏi cuối chương 1 cũng đã được giữ nguyên.  
+PPTX
+
+
+
+
+Gemini is AI and can make mistakes.
+
+Listing Modern Data Models
+# Chương 1: Khái niệm và kiến trúc hệ CSDL
+**Môn Cơ sở dữ liệu**
+
+## Cơ sở dữ liệu
+* Dữ liệu là gì?
+* Có các hình thức lưu trữ nào?
+
+## Dữ liệu là gì?
+Những thông tin được lưu trữ lại bằng một hình thức cụ thể.
+*Ví dụ:* dữ liệu việc làm, dữ liệu học tập, dữ liệu điểm số sinh viên, dữ liệu check in của một hãng hàng không, dữ liệu không gian,…
+
+## Hình thức lưu trữ dữ liệu
+* Khắc trên đá, đồ vật
+* Vẽ trên vải
+* Ghi trên giấy
+* Lưu trên máy tính
+* Lưu trữ với công nghệ điện toán đám mây
+
+## Cơ sở dữ liệu là gì?
+Một tập hợp các dữ liệu có mối quan hệ với nhau chứa thông tin về một tổ chức nào đó (như một trường học, một công ty, một nhà máy,…)
+Được lưu trữ trên máy tính để đáp ứng nhu cầu khai thác thông tin của nhiều người sử dụng với nhiều mục đích khác nhau.
+
+## Hệ cơ sở dữ liệu
+Bao gồm:
+* Cơ sở dữ liệu
+* Hệ quản trị cơ sở dữ liệu
+
+## Kiến trúc 3 mức của hệ CSDL
+* **Physical level (Mức vật lý):** Mô tả cách tổ chức lưu trữ dữ liệu trên đĩa. Do hệ quản trị CSDL đảm nhiệm.
+* **Logical level (Mức logic):** Mô tả cách thức tổ chức dữ liệu trong database dựa trên các mô hình dữ liệu (Ví dụ: mô hình thực thể kết hợp, mô hình quan hệ).
+* **View level (Mức khung nhìn):** Các chương trình ứng dụng giao tiếp với người dùng.
+
+## Hệ quản trị cơ sở dữ liệu (Database Manager System - DBMS)
+* Là chương trình ứng dụng có khả năng tạo ra cơ sở dữ liệu, quản lý, lưu trữ và xử lý truy vấn trên cơ sở dữ liệu.
+* Hỗ trợ cài đặt mô hình cụ thể (VD: mô hình quan hệ, mô hình hướng đối tượng,…)
+* Hỗ trợ các ngôn ngữ giao tiếp với người sử dụng.
+
+## Các ngôn ngữ của DBMS
+* **Ngôn ngữ định nghĩa dữ liệu (Data Definition Language – DDL):** Định nghĩa cấu trúc cơ sở dữ liệu và các đối tượng trong cơ sở dữ liệu (create database, create table, create view,…).
+* **Ngôn ngữ thao tác dữ liệu (Data Manipulation Language - DML):** Thực hiện các lệnh cập nhật dữ liệu: insert, update, delete.
+* **Ngôn ngữ truy vấn dữ liệu (Structured Query Language - SQL):** Truy vấn thông tin trên cơ sở dữ liệu: Select – From – Where.
+* **Ngôn ngữ quản lý dữ liệu (Data Control Language – DCL):** Thay đổi cấu trúc đối tượng (Alter table, Alter Procedure, …), Tạo và quản lý người dùng truy cập cơ sở dữ liệu (Create user, Create login, Grant, Revoke…).
+
+## Một số RDBMS thông dụng
+* MS SQL Server (Microsoft)
+* IBM DB2 (IBM)
+* Oracle DB, MySQL (Oracle Corporation)
+* PostgreSQL (Global Development Group)
+
+## Các đối tượng sử dụng CSDL
+* **Quản trị viên CSDL:**
+    * Quản lý tài nguyên cơ sở dữ liệu.
+    * Quản lý quyền truy cập, điều phối, giám sát việc sử dụng cơ sở dữ liệu.
+* **Phân tích thiết kế viên hệ thống:**
+    * Khảo sát hệ thống.
+    * Phân tích yêu cầu người dùng để thiết kế hệ thống thông tin.
+* **Lập trình viên ứng dụng:**
+    * Lập trình thành chương trình ứng dụng hoàn chỉnh theo thiết kế đã có.
+    * Bảo trì chương trình ứng dụng.
+* **Người sử dụng CSDL:**
+    * Khai thác thông tin từ cơ sở dữ liệu.
+    * Cập nhật dữ liệu có trên cơ sở dữ liệu.
+
+## Mô hình dữ liệu
+Biểu diễn dữ liệu và sự quan hệ giữa chúng một cách trừu tượng trong một hệ thống cụ thể (Ví dụ: quản lý bán hàng, quản lý bệnh viện, quản lý nhân sự,…).
+Một số mô hình dữ liệu:
+* Network Model
+* Hierarchical Model
+* Relation Data Model
+* Entity – Relationship Model
+* Object Oriented Data Model
+
+## Các mô hình dữ liệu cổ điển
+* **Network Model:** Ra đời năm 1960. Dễ sử dụng nhưng phức tạp khi biểu diễn cơ sở dữ liệu lớn.
+* **Hierarchical Model:** Ra đời cuối năm 1950. Tổ chức ở dạng cây, mỗi nút của cây biểu diễn một thực thể.
+* **Relation Data Model:** Được E.F.Codd đưa ra vào năm 1970. Nền tảng cơ bản dựa vào lý thuyết tập hợp. Dữ liệu được tổ chức thành các bảng. Được sử dụng rộng rãi cho đến ngày nay.
+* **Entity – Relationship Model:** Do P.P.Chen đề xuất vào năm 1976. Được sử dụng biểu diễn dữ liệu ở mức quan niệm.
+* **Object Oriented Data Model:** Ra đời sau 1990, tiếp cận hướng đối tượng gồm các khái niệm: lớp, kế thừa. Đặc trưng cơ bản: tính đóng gói, tính đa hình, tính tái sử dụng.
+
+## Một số mô hình dữ liệu hiện đại (NoSQL)
+* Cơ sở dữ liệu Document
+* Cơ sở dữ liệu Wide Column
+* Cơ sở dữ liệu Graph
+* Cơ sở dữ liệu Key-Value
+* Cơ sở dữ liệu Vector
+
+## Chi tiết các mô hình dữ liệu hiện đại
+* **Cơ sở dữ liệu Document:** Lưu trữ dữ liệu theo cấu trúc BSON (tựa JSON). Mỗi đối tượng tổ chức thành một Document. Hệ quản trị phổ biến: MongoDB, Amazon DynamoDB và Couchbase,...
+* **Cơ sở dữ liệu Wide Column:** Tổ chức dữ liệu thành các bảng độc lập. Mỗi bảng có nhiều dòng và mỗi dòng có thể có số cột khác nhau. Hệ quản trị phổ biến: Cassandra, HBase, Bigtable,...
+* **Cơ sở dữ liệu Graph:** Tổ chức dữ liệu thành tập các node và các cung liên kết. Mỗi đối tượng là một node có thuộc tính mô tả. Ứng dụng: Mạng xã hội, bản đồ,... Hệ quản trị tiêu biểu: Neo4J, GraphDB, Amazon Neptune...
+* **Cơ sở dữ liệu Key-Value:** Cấu trúc đơn giản, lưu trữ dữ liệu dạng cặp Khóa (Key) và Giá trị (Value). Tốc độ đọc ghi nhanh, thường sử dụng làm cache. Hệ quản trị phổ biến: Redis, Memcached,...
+* **Cơ sở dữ liệu Vector:** Tổ chức dữ liệu thành các Collection, mỗi record (thường biểu diễn dưới dạng JSON) chứa một vector đa chiều và các thông tin gốc (metadata). Cơ chế truy vấn: Tìm kiếm dựa trên độ tương đồng ngữ nghĩa thay vì so sánh khớp từ khóa. Các hệ quản trị phổ biến: Pinecone, Milvus, và Qdrant.
+
+## Câu hỏi chương 1
+1. Phân biệt "Dữ liệu" và "Thông tin". Vai trò của một Hệ quản trị CSDL (DBMS) là gì?
+2. Phân tích ý nghĩa của "Kiến trúc 3 mức". Tại sao hệ thống cần có tính "độc lập dữ liệu"?
+3. Trình bày vai trò của cơ sở dữ liệu trong một phần mềm ứng dụng. Hãy liệt kê một số cách lưu trữ khác và so sánh với việc lưu trữ bằng cơ sở dữ liệu.
+4. Hãy kể tên một công ty hoặc tổ chức, doanh nghiệp có sử dụng cơ sở dữ liệu. Trình bày dấu hiệu nhận biết tại công ty đó có sự tương tác với cơ sở dữ liệu?
+5. Nêu đặc điểm và bài toán ứng dụng phù hợp cho 4 mô hình: Key-Value, Document, Column, Graph.
+6. Điểm khác biệt giữa tìm kiếm "khớp từ khóa" (CSDL Quan hệ) và tìm kiếm "tương đồng ngữ nghĩa" (CSDL Vector) là gì?
+7. Khi chuyển đổi các dữ liệu rời rạc (như tập giao dịch mua sắm) thành các vector liên tục để lưu trữ, vai trò của dãy số vector và các thuộc tính gốc (metadata) trong truy vấn là gì?
+Chuong_1_Khai_niem_va_kien_truc_he_CSDL.md
+Displaying Chuong_1_Khai_niem_va_kien_truc_he_CSDL.md.
