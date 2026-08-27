@@ -123,7 +123,7 @@ Là kiểu thực thể không có thuộc tính định danh riêng. Tồn tạ
 
 
 ## Mô hình quan hệ
-[![Mô hình quan hệ 2.1]([https://youtube.com](https://youtu.be/cRo5nQd2n2g))]([https://youtube.com](https://youtu.be/cRo5nQd2n2g))
+#[![Mô hình quan hệ 2.1]([https://youtube.com](https://youtu.be/cRo5nQd2n2g))]([https://youtube.com](https://youtu.be/cRo5nQd2n2g))
 Được E.F.Cold đề xuất vào năm 1970. Dựa trên nền tảng lý thuyết tập hợp.
 **Các khái niệm chính:**
 * Quan hệ (Relation)
