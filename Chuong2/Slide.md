@@ -123,7 +123,7 @@ Là kiểu thực thể không có thuộc tính định danh riêng. Tồn tạ
 
 
 ## Mô hình quan hệ
-🎥 [Xem video giới thiệu dự án tại đây](https://www.youtube.com/watch?v=PLXb7WSVeDwsg)
+▶️ [Xem video Mô Hình Quan Hệ_1 ](https://www.youtube.com/watch?v=cRo5nQd2n2g)
 
 Được E.F.Cold đề xuất vào năm 1970. Dựa trên nền tảng lý thuyết tập hợp.
 **Các khái niệm chính:**
@@ -189,6 +189,8 @@ Cho các lược đồ quan hệ:
 ### Mối kết hợp 1 – N
 * E(A, B, C) liên kết 1-N với F(D, G).
 * Lược đồ: E(A, B, C) và F(D, G, A) (Thuộc tính khóa A của E làm khóa ngoại trong F).
+* 
+▶️ [Xem video Mô Hình Quan Hệ_2 ](https://www.youtube.com/watch?v=nBO8vE2apxY)
 
 ### Mối kết hợp 1 – 1
 * E(A, B, C) liên kết 1-1 với F(D, G).
