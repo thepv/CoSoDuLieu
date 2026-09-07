@@ -20,6 +20,6 @@
 * **Bài 7:** Vẽ mô hình thực thể kết hợp và chuyển thành lược đồ quan hệ:
   <img width="643" height="213" alt="image" src="https://github.com/user-attachments/assets/ea6bc644-17ff-42c6-8d3c-1a2948e180a8" />
 
-* **Bài 7:** Vẽ mô hình thực thể kết hợp và chuyển thành lược đồ quan hệ:
+* **Bài 8:** Vẽ mô hình thực thể kết hợp và chuyển thành lược đồ quan hệ:
 Một trung tâm Tiếng Anh cần lưu trữ thông tin về khóa học, lớp học, giáo viên và học viên. Mỗi giáo viên cần có các thông tin sau: mã số (danh định), họ tên, năm sinh, các số điện thoại, địa chỉ, và bằng cấp hoặc chứng chỉ. Trung tâm tổ chức ra nhiều khóa học, thông tin về khóa học là: mã số khóa học (danh định), tên, mô tả. Mỗi khóa học bao gồm nhiều lớp học, nhưng mỗi lớp học chỉ thuộc về một khóa học. Thông tin về lớp học cần có: mã số lớp học (danh định), tên lớp, phòng học, các buổi học trong tuần (bao gồm thứ, giờ bắt đầu, giờ kết thúc), ngày bắt đầu, ngày kết thúc. Một khóa học được phải có ít nhất một lớp học. Tuy nhiên, trung tâm cũng mở ra một số lớp học dạng chuyên đề và không thuộc về khóa học nào cả. Mỗi giáo viên có thể phụ trách nhiều lớp học hoặc không phụ trách lớp nào cả. Mỗi lớp học có một giáo viên phụ trách. Một học viên có thể tham gia nhiều lớp học. Thông tin học viên bao gồm: mã số (danh định), họ tên, năm sinh, địa chỉ, số điện thoại. Khi kết thúc một lớp học, giáo viên sẽ cho các học viên trong lớp làm bài kiểm tra đánh giá. Trung tâm cần lưu kết quả đánh giá này ứng với từng học viên trong lớp.
 
