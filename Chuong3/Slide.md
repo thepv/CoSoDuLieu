@@ -1,6 +1,6 @@
 # Chương 3: Đại số quan hệ
 **Môn Cơ sở dữ liệu**
-▶️ [Xem video Mô Hình Quan Hệ_1 ](https://www.youtube.com/watch?v=UR69-9VGDyE)
+▶️ [Xem video Chương 3 Đại Số Quan Hệ](https://www.youtube.com/watch?v=UR69-9VGDyE)
 ## Đại số quan hệ
 * Các phép toán tập hợp: Hội, giao, trừ, tích đề-các
 * Các phép toán quan hệ: Chọn, chiếu, kết, đổi tên, chia
