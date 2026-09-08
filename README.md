@@ -17,7 +17,7 @@ Dưới đây là danh sách các tệp tài liệu tương ứng với từng c
     *   **Mô hình quan hệ:** Quan hệ, bộ (tuple), thuộc tính, miền giá trị, các loại khóa (khóa chính, khóa ngoại, siêu khóa).
     *   Hướng dẫn quy tắc chuyển đổi từ Mô hình ER sang Mô hình quan hệ.
 
-*   **[Chương 3: Đại số quan hệ](Chuong_3_Dai_so_quan_he.md)**
+*   **[Chương 3: Đại số quan hệ](Chuong3)**
     *   Các phép toán tập hợp: Hội, Giao, Trừ, Tích Đề-các.
     *   Các phép toán quan hệ: Chọn, Chiếu, Kết (có điều kiện, tự nhiên), Chia, Đổi tên.
     *   Ví dụ minh họa chi tiết cho từng phép toán.
