@@ -16,6 +16,9 @@ Chào mừng bạn đến với kho lưu trữ bài giảng. Dưới đây là l
 * [💻 Lab: Mô Hình Quan Hệ](./Chuong2/Lab_MoHinhQuanHe.md) — Thực hành chuyển đổi sang mô hình quan hệ.
 * [📝 Bài Tập Thực Hành Lab 2 (Bổ sung)](./Chuong2/lab2.md) — Các bài tập mở rộng của chương 2.
 
+### 📂 Chương 3: Đại Số Quan Hệ
+* [📖 Slide Bài Giảng Chương 1](./Chuong3/Slide.md) — Đại số quan hệ.
+* [💻 Bài Tập Thực Hành Lab 3](./Chuong3/lab.md) — Hướng dẫn thực hành chương 3.
 ---
 
 ## 🛠️ Hướng Dẫn Học Tập
