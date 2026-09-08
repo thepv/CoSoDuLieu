@@ -19,6 +19,10 @@ Chào mừng bạn đến với kho lưu trữ bài giảng. Dưới đây là l
 ### 📂 Chương 3: Đại Số Quan Hệ
 * [📖 Slide Bài Giảng Chương 3](./Chuong3/Slide.md) — Đại số quan hệ.
 * [💻 Bài Tập Thực Hành Lab 3](./Chuong3/lab.md) — Hướng dẫn thực hành chương 3.
+
+  ### 📂 Chương 4: Ngôn ngữ truy vấn SQL
+* [📖 Slide Bài Giảng Chương 4](./Chuong3/Slide.md) — Ngôn ngữ truy vấn SQL.
+* [💻 Bài Tập Thực Hành Lab 4](./Chuong3/lab.md) — Hướng dẫn thực hành chương 4.
 ---
 
 ## 🛠️ Hướng Dẫn Học Tập
