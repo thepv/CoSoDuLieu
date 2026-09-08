@@ -6,7 +6,7 @@ Chào mừng bạn đến với tài liệu học tập môn **Cơ sở dữ li�
 
 Dưới đây là danh sách các tệp tài liệu tương ứng với từng chương của môn học:
 
-*   **[Chương 1: Khái niệm và kiến trúc hệ CSDL](Chuong1.md)**
+*   **[Chương 1: Khái niệm và kiến trúc hệ CSDL](Chuong1)**
     *   Khái niệm về dữ liệu, Cơ sở dữ liệu (CSDL) và Hệ quản trị CSDL (DBMS).
     *   Kiến trúc 3 mức của hệ CSDL.
     *   Các ngôn ngữ của DBMS (DDL, DML, SQL, DCL) và các đối tượng sử dụng.
