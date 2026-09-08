@@ -27,7 +27,7 @@ Dưới đây là danh sách các tệp tài liệu tương ứng với từng c
     *   Bài tập tính toán giá trị biểu thức đại số quan hệ trên các bảng dữ liệu cho trước.
     *   Bài tập thực hành chuyển đổi yêu cầu truy vấn tự nhiên sang biểu thức đại số quan hệ.
 
-*   **[Chương 4: Ngôn ngữ truy vấn SQL](Chuongw4)**
+*   **[Chương 4: Ngôn ngữ truy vấn SQL](Chuong4)**
     *   Giới thiệu ngôn ngữ SQL và các tiêu chuẩn.
     *   **Lệnh khai báo cấu trúc (DDL):** `CREATE TABLE`, `ALTER TABLE`, quản lý ràng buộc (Constraint) và định nghĩa kiểu dữ liệu.
     *   **Lệnh cập nhật dữ liệu (DML):** `INSERT`, `UPDATE`, `DELETE`.
