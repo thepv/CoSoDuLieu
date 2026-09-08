@@ -12,7 +12,7 @@ Dưới đây là danh sách các tệp tài liệu tương ứng với từng c
     *   Các ngôn ngữ của DBMS (DDL, DML, SQL, DCL) và các đối tượng sử dụng.
     *   Tổng quan về các mô hình dữ liệu (Cổ điển và NoSQL hiện đại như Document, Wide Column, Graph, Key-Value, Vector).
 
-*   **[Chương 2: Các mô hình dữ liệu](Chuong_2_Cac_mo_hinh_du_lieu.md)**
+*   **[Chương 2: Các mô hình dữ liệu](Chuong2)**
     *   **Mô hình thực thể kết hợp (ER/ERD):** Thực thể, thuộc tính, mối kết hợp (1-1, 1-N, N-N).
     *   **Mô hình quan hệ:** Quan hệ, bộ (tuple), thuộc tính, miền giá trị, các loại khóa (khóa chính, khóa ngoại, siêu khóa).
     *   Hướng dẫn quy tắc chuyển đổi từ Mô hình ER sang Mô hình quan hệ.
