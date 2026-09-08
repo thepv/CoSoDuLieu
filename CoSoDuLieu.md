@@ -21,8 +21,8 @@ Chào mừng bạn đến với kho lưu trữ bài giảng. Dưới đây là l
 * [💻 Bài Tập Thực Hành Lab 3](./Chuong3/lab.md) — Hướng dẫn thực hành chương 3.
 
   ### 📂 Chương 4: Ngôn ngữ truy vấn SQL
-* [📖 Slide Bài Giảng Chương 4](./Chuong3/Slide.md) — Ngôn ngữ truy vấn SQL.
-* [💻 Bài Tập Thực Hành Lab 4](./Chuong3/lab.md) — Hướng dẫn thực hành chương 4.
+* [📖 Slide Bài Giảng Chương 4](./Chuong4/Slides.md) — Ngôn ngữ truy vấn SQL.
+* [💻 Bài Tập Thực Hành Lab 4](./Chuong4/lab.md) — Hướng dẫn thực hành chương 4.
 ---
 
 ## 🛠️ Hướng Dẫn Học Tập
