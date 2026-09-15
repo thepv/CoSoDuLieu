@@ -1,3 +1,4 @@
+##▶️ [Xem video phân tích và sửa bài ERD](https://www.youtube.com/watch?v=N9UbtLk52jg)
 ## Bài tập Mô hình Thực thể Kết hợp
 * **Bài 1:** Vẽ mô hình thực thể kết hợp cho hệ thống quản lý mua bán hàng hoá.
     * Xác định các kiểu thực thể.
