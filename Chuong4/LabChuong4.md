@@ -100,6 +100,7 @@ Hoá đơn nào có trị giá cao nhất. Thông tin liệt kê gồm: mã hoá
 
 Câu 3: Sinh viên đọc kỹ, phân tích diagram bên dưới:
 <img width="811" height="524" alt="image" src="https://github.com/user-attachments/assets/c6b625dd-fec1-4482-b7c1-cda12f14295f" />
+
 Câu 3.1/ Thục hiện các truy vấn sau bằng đại số quan hệ và dùng Sql
 <img width="805" height="608" alt="image" src="https://github.com/user-attachments/assets/7923faa1-b4be-4633-b1e3-25e28bdc4f6e" />
 
