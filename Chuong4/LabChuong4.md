@@ -98,5 +98,11 @@ Mã và tên những mặt hàng nào bán chạy nhất trong ngày 12/11/2025?
 
 Hoá đơn nào có trị giá cao nhất. Thông tin liệt kê gồm: mã hoá đơn, ngày lập.
 
-Câu 3: thực hiện viết truy vấn bằng đại số quan hệ và viết SQL
+Câu 3: Sinh viên đọc kỹ, phân tích diagram bên dưới:
+<img width="811" height="524" alt="image" src="https://github.com/user-attachments/assets/c6b625dd-fec1-4482-b7c1-cda12f14295f" />
+Câu 3.1/ Thục hiện các truy vấn sau bằng đại số quan hệ và dùng Sql
+<img width="805" height="608" alt="image" src="https://github.com/user-attachments/assets/7923faa1-b4be-4633-b1e3-25e28bdc4f6e" />
+
+
+Câu 4: thực hiện viết truy vấn bằng đại số quan hệ và viết SQL
 <img width="975" height="607" alt="image" src="https://github.com/user-attachments/assets/ebb8074d-bfe8-450b-ad20-4d894699c3d9" />
