@@ -97,3 +97,6 @@ Cho biết mã hàng, tên hàng và tổng số lượng mặt hàng được b
 Mã và tên những mặt hàng nào bán chạy nhất trong ngày 12/11/2025?
 
 Hoá đơn nào có trị giá cao nhất. Thông tin liệt kê gồm: mã hoá đơn, ngày lập.
+
+Câu 3: thực hiện viết truy vấn bằng đại số quan hệ và viết SQL
+<img width="975" height="607" alt="image" src="https://github.com/user-attachments/assets/ebb8074d-bfe8-450b-ad20-4d894699c3d9" />
