@@ -107,8 +107,8 @@ Câu 3.1/ Thục hiện các truy vấn sau bằng đại số quan hệ và dù
 Câu 3.2/  
 <img width="886" height="745" alt="image" src="https://github.com/user-attachments/assets/1c6140b0-0a20-467f-b85e-20011ba05a60" />.
 
-Câu 3.3/
+Câu 3.3/  
 <img width="858" height="397" alt="image" src="https://github.com/user-attachments/assets/5342f634-ffb6-440a-8a52-bb20c9eb7569" />.
 
-Câu 4: thực hiện viết truy vấn bằng đại số quan hệ và viết SQL
+Câu 4: thực hiện viết truy vấn bằng đại số quan hệ và viết SQL  
 <img width="975" height="607" alt="image" src="https://github.com/user-attachments/assets/ebb8074d-bfe8-450b-ad20-4d894699c3d9" />.
