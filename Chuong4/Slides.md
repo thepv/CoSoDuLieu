@@ -1,7 +1,8 @@
 # Chương 4: Ngôn ngữ truy vấn SQL
 **Môn Cơ sở dữ liệu**
-▶️ [Xem video Chương 4.1 SQL](https://www.youtube.com/watch?v=wLNNEM3x0Dk)
-▶️ [Xem video Chương 4.2 SQL](https://www.youtube.com/watch?v=R_pza_cSJj4&list)
+▶️ [Xem video Chương 4.1 SQL](https://www.youtube.com/watch?v=wLNNEM3x0Dk)  
+▶️ [Xem video Chương 4.2 SQL](https://www.youtube.com/watch?v=R_pza_cSJj4&list)  
+▶️ [Xem video Chương 4.3 SQL](https://www.youtube.com/watch?v=Aho24rU8VYg)
 ## Ngôn ngữ truy vấn SQL
 * Giới thiệu ngôn ngữ SQL
 * Các lệnh khai báo cấu trúc
