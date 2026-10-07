@@ -99,16 +99,16 @@ Mã và tên những mặt hàng nào bán chạy nhất trong ngày 12/11/2025?
 Hoá đơn nào có trị giá cao nhất. Thông tin liệt kê gồm: mã hoá đơn, ngày lập.
 
 Câu 3: Sinh viên đọc kỹ, phân tích diagram bên dưới:
-<img width="811" height="524" alt="image" src="https://github.com/user-attachments/assets/c6b625dd-fec1-4482-b7c1-cda12f14295f" />
+<img width="811" height="524" alt="image" src="https://github.com/user-attachments/assets/c6b625dd-fec1-4482-b7c1-cda12f14295f" />.
 
 Câu 3.1/ Thục hiện các truy vấn sau bằng đại số quan hệ và dùng Sql
-<img width="805" height="608" alt="image" src="https://github.com/user-attachments/assets/7923faa1-b4be-4633-b1e3-25e28bdc4f6e" />
+<img width="805" height="608" alt="image" src="https://github.com/user-attachments/assets/7923faa1-b4be-4633-b1e3-25e28bdc4f6e" />.
 
 Câu 3.2
-<img width="886" height="745" alt="image" src="https://github.com/user-attachments/assets/1c6140b0-0a20-467f-b85e-20011ba05a60" />
+<img width="886" height="745" alt="image" src="https://github.com/user-attachments/assets/1c6140b0-0a20-467f-b85e-20011ba05a60" />.
 
 Câu 3.3
-<img width="858" height="397" alt="image" src="https://github.com/user-attachments/assets/5342f634-ffb6-440a-8a52-bb20c9eb7569" />
+<img width="858" height="397" alt="image" src="https://github.com/user-attachments/assets/5342f634-ffb6-440a-8a52-bb20c9eb7569" />.
 
 Câu 4: thực hiện viết truy vấn bằng đại số quan hệ và viết SQL
-<img width="975" height="607" alt="image" src="https://github.com/user-attachments/assets/ebb8074d-bfe8-450b-ad20-4d894699c3d9" />
+<img width="975" height="607" alt="image" src="https://github.com/user-attachments/assets/ebb8074d-bfe8-450b-ad20-4d894699c3d9" />.
