@@ -34,8 +34,13 @@ Dưới đây là danh sách các tệp tài liệu tương ứng với từng c
     *   **Lệnh truy vấn dữ liệu (DQL):** Cú pháp `SELECT`, các toán tử, `DISTINCT`, `BETWEEN`, `LIKE`, hàm thống kê, `GROUP BY`, `HAVING`, `ORDER BY`.
     *   Các loại truy vấn lồng (Subquery): Phân cấp và Tương quan (`IN`, `EXISTS`, `ALL`).
 
+*   **[Chương 5: Ràng buộc toàn vẹn](Chuong5)**
+    *   Ràng buộc toàn vẹn là gì?.
+    *   Các đặc trưng của ràng buộc toàn vẹn.
+    *   Phân loại ràng buộc toàn vẹn
+
 ## 🛠 Hướng dẫn sử dụng
 
 1.  **Lộ trình học tập:** Nên đọc tài liệu theo thứ tự từ Chương 1 đến Chương 4 để nắm vững từ khái niệm cơ bản, cách thiết kế mô hình dữ liệu, nền tảng toán học (Đại số quan hệ) cho đến ngôn ngữ lập trình thực tế (SQL).
-2.  **Thực hành:** Sau khi hoàn thành lý thuyết Chương 3 và Chương 4, hãy bắt tay vào làm [Bài tập Chương 3](Chuong_3_Cau_hoi_va_bai_tap_Dai_so_quan_he.md) và tự viết các câu lệnh SQL tương ứng để đối chiếu.
+2.  **Thực hành:** Sau khi hoàn thành lý thuyết, hãy bắt tay vào làm lab
 3.  **Công cụ hỗ trợ:** Để thực hành lệnh SQL (Chương 4), bạn có thể cài đặt các Hệ quản trị CSDL thông dụng như MS SQL Server, MySQL hoặc PostgreSQL.
