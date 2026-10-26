@@ -1,8 +1,5 @@
 # 📚 Cơ sở dữ liệu — Chương 5: Ràng buộc toàn vẹn
 
-> **Biên soạn:** Bộ môn HTTT  
-> **Nguồn:** Slide bài giảng Cơ sở dữ liệu (cập nhật 2026)
-
 ## 🧭 Nội dung
 
 - [Giới thiệu môn học](#-giới-thiệu-môn-học)
@@ -29,7 +26,7 @@
 
 ## 🗂️ Chuẩn đầu ra, tài liệu và đánh giá
 
-Slide giới thiệu các mục **Chuẩn đầu ra môn học**, **Tài liệu tham khảo** và **Phương pháp đánh giá**, nhưng không cung cấp nội dung chi tiết cho các mục này.
+Slide giới thiệu các mục **Chuẩn đầu ra môn học**, **Tài liệu tham khảo** và **Phương pháp đánh giá**  
 
 ---
 
